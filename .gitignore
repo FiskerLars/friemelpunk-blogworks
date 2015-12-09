@@ -1,0 +1,15 @@
+posts
+drafts
+site
+_site
+images
+experimente
+dist
+_cache
+*.html
+*.markdown
+*~
+*.rst
+.cabal-sandbox*
+cabal.sandbox.config
+hakyll*
